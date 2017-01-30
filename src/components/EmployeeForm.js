@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import { employeeUpdate } from '../actions';
 import { CardSection, Input } from './common';
 
-
 class EmployeeForm extends Component {
   render() {
     return (
